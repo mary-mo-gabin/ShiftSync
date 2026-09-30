@@ -1,0 +1,6 @@
+icalendar==7.3.0
+pandas==3.0.6
+pdfplumber==0.11.10
+pytest
+pytz==2026.4
+streamlit==1.64.0

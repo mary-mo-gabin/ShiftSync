@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Data & Outputs (개인정보 및 테스트 파일 방지)
+*.pdf
+*.ics
+
+# OS / Editor
+.DS_Store
+.vscode/
+.idea/
